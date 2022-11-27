@@ -2,7 +2,6 @@
 
 ## Applicant Credibility Prediction for Loan Approval
 
-------------------------------------------------
 |TECHNOLOGY USED  |   DATA SCIENCE             |
 |-----------------|----------------------------|
 
@@ -19,11 +18,11 @@
 
 1. Uni-Variate, 
 2. Bi-Variate and 
-3. Multi-Variate Analysis Etc. </br>
+3. Multi-Variate Analysis Etc. <br>
 
 <b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
 
-</br>
+<br>
 
 ## Home
 
