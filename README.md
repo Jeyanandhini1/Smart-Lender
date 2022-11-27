@@ -2,10 +2,11 @@
 
 ## Applicant Credibility Prediction for Loan Approval
 
-|TECHNOLOGY USED  |   DATA SCIENCE             |
-|-----------------|----------------------------|
+<hr>
 
-<b> Domain - BANKING AND FINANCING </b><br>
+<b> Technology Used - DATA SCIENCE </b>
+
+<b> Domain          - BANKING AND FINANCING </b><br>
 <hr>
 
 -->In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like 
