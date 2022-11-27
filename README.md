@@ -6,21 +6,21 @@
 
 <b> Technology Used - Data Science </b>
 
-<b> Domain          - Banking and Financing </b><br>
+<b> Domain - Banking and Financing </b><br>
 <hr>
 
 <b> <li> In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like</li></b>
 
-1. Decision Tree, 
-2. KNN (K-Nearest Neighbor), 
-3. Randon Forest, 
-4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. 
+<b>1. Decision Tree, </b>
+<b>2. KNN (K-Nearest Neighbor),</b> 
+<b>3. Randon Forest,</b> 
+<b>4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. </b>
 
---> Those Analysis are
+<b><li>Those Analysis are</li></b>
 
-1. Uni-Variate, 
-2. Bi-Variate and 
-3. Multi-Variate Analysis Etc. <br>
+<b>1. Uni-Variate, </b>
+<b>2. Bi-Variate and </b>
+<b>3. Multi-Variate Analysis Etc. </br>
 
 <hr>
 <b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
