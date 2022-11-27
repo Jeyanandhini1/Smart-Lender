@@ -5,7 +5,7 @@
 |TECHNOLOGY USED  |   DATA SCIENCE             |
 |-----------------|----------------------------|
 
-<b> Domain - BANKING AND FINANCING </b>
+<b> Domain - BANKING AND FINANCING </b><br>
 
 -->In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like 
 
