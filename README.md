@@ -4,12 +4,12 @@
 
 <hr>
 
-<b> Technology Used - DATA SCIENCE </b>
+<b> Technology Used - Data Science </b>
 
-<b> Domain          - BANKING AND FINANCING </b><br>
+<b> Domain          - Banking and Financing </b><br>
 <hr>
 
--->In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like 
+<b> <li> In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like</li></b>
 
 1. Decision Tree, 
 2. KNN (K-Nearest Neighbor), 
