@@ -6,6 +6,7 @@
 |-----------------|----------------------------|
 
 <b> Domain - BANKING AND FINANCING </b><br>
+<hr>
 
 -->In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like 
 
@@ -20,9 +21,11 @@
 2. Bi-Variate and 
 3. Multi-Variate Analysis Etc. <br>
 
+<hr>
 <b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
 
 <br>
+<hr>
 
 ## Home
 
