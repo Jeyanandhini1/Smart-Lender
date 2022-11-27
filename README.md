@@ -16,16 +16,11 @@
 <b>3. Randon Forest,</b> <br>
 <b>4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. </b><br>
 
-<b><li>Those Analysis are</li></b><br>
-
+<b><li>Those Analysis are</li></b>
 <b>1. Uni-Variate, </b><br>
 <b>2. Bi-Variate and </b><br>
 <b>3. Multi-Variate Analysis Etc. <b><br>
-
-<hr>
-<b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
-
-<br>
+  
 <hr>
 
 ## Home
@@ -35,3 +30,9 @@
 ## Predict and Submit
 
 ![image](https://user-images.githubusercontent.com/102854779/204123299-4241ce99-de4d-4671-a76d-00b680c79a4e.png)
+
+  <hr>
+<b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
+
+<br>
+<hr>
