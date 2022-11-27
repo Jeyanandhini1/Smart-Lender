@@ -21,7 +21,7 @@
 2. Bi-Variate and 
 3. Multi-Variate Analysis Etc.
 
-https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing
+## DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing
 
 ## Home
 
