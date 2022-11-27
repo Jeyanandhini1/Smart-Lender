@@ -8,7 +8,13 @@
 
 ## Domain - BANKING AND FINANCING
 
-In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like Decision Tree, KNN (K-Nearest Neighbor), Randon Forest, Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. Those Analysis are Uni-Variate, Bi-Variate and Multi-Variate Analysis Etc.
+In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like 
+1. Decision Tree, 
+2. KNN (K-Nearest Neighbor), 
+3. Randon Forest, 
+4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. 
+
+--> Those Analysis are Uni-Variate, Bi-Variate and Multi-Variate Analysis Etc.
 
 
 
