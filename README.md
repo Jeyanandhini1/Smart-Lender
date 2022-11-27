@@ -11,16 +11,16 @@
 
 <b> <li> In this Loan Approval Prediction Project I Used Various Machine Learning Algorithms like</li></b>
 
-<b>1. Decision Tree, </b>
-<b>2. KNN (K-Nearest Neighbor),</b> 
-<b>3. Randon Forest,</b> 
-<b>4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. </b>
+<b>1. Decision Tree, </b><br>
+<b>2. KNN (K-Nearest Neighbor),</b><br>
+<b>3. Randon Forest,</b> <br>
+<b>4. Xgboost (Extreme Gradient Boost) to train the Model and Various Analysis method are Used to analyze the datasets. </b><br>
 
-<b><li>Those Analysis are</li></b>
+<b><li>Those Analysis are</li></b><br>
 
-<b>1. Uni-Variate, </b>
-<b>2. Bi-Variate and </b>
-<b>3. Multi-Variate Analysis Etc. </br>
+<b>1. Uni-Variate, </b><br>
+<b>2. Bi-Variate and </b><br>
+<b>3. Multi-Variate Analysis Etc. <b><br>
 
 <hr>
 <b>DEMO VIDEO LINK - https://drive.google.com/file/d/12Urm7aJmXM4w-yz5JDtUa0eqY2CkRFvt/view?usp=sharing</b>
