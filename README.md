@@ -1,11 +1,13 @@
 # Smart-Lender
 
 ## Applicant Credibility Prediction for Loan Approval
------------------------------------
-|## TECHNOLOGY USED - DATA SCIENCE |
-|----------------------------------|
-|## DOMAIN - BANKING AND FINANCING |
------------------------------------
+
+------------------------------------------------
+|TECHNOLOGY USED  |   DATA SCIENCE             |
+|----------------------------------------------|
+|DOMAIN           |   BANKING AND FINANCING    |
+------------------------------------------------
+
 ## Home
 
 ![image](https://user-images.githubusercontent.com/102854779/204123287-20d5236f-c5b3-40e5-8cfa-98c78d83ebbc.png)
